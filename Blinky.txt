@@ -1,0 +1,244 @@
+0
+2
+3
+0
+1
+1
+0
+2
+3
+2
+3
+0
+1
+0
+2
+3
+0
+1
+1
+0
+2
+3
+2
+3
+0
+2
+1
+0
+2
+3
+0
+Direction: 0
+Direction: 2
+Direction: 3
+Direction: 0
+Direction: 1
+Direction: 1
+Direction: 0
+Direction: 2
+Direction: 3
+Direction: 2
+Direction: 3
+Direction: 0
+Direction: 1
+Direction: 1
+Direction: 0
+Direction: 2
+Direction: 3
+Direction: 2
+Direction: 0
+Direction: 2
+Direction: 3
+Direction: 0
+Direction: 2
+Direction: 1
+Direction: 0
+Direction: 0
+Direction: 2
+Direction: 0
+Direction: 2
+Direction: 3
+Direction: 0
+Direction: 2
+Direction: 1
+Direction: 0
+Direction: 2
+Direction: 3
+Direction: 0
+Direction: 2
+Direction: 1
+Direction: 0
+Direction: 2
+Direction: 3
+Direction: 0
+Direction: 2
+Direction: 0
+Direction: 2
+Direction: 3
+Direction: 0
+Direction: 1
+Direction: 1
+Direction: 0
+Direction: 2
+Direction: 3
+Direction: 2
+Direction: 3
+Direction: 0
+Direction: 1
+Direction: 1
+Direction: 0
+Direction: 2
+Direction: 3
+Direction: 2
+Direction: 0
+Direction: 0
+Direction: 0
+Direction: 2
+Direction: 3
+Direction: 0
+Direction: 1
+Direction: 1
+Direction: 0
+Direction: 2
+Direction: 3
+Direction: 2
+Direction: 3
+Direction: 0
+Direction: 1
+Direction: 1
+Direction: 0
+Direction: 2
+Direction: 3
+Direction: 0
+Direction: 2
+Direction: 3
+Direction: 0
+Direction: 1
+Direction: 1
+Direction: 0
+Direction: 2
+Direction: 3
+Direction: 2
+Direction: 3
+Direction: 0
+Direction: 1
+Direction: 1
+Direction: 0
+Direction: 2
+Direction: 3
+Direction: 0
+Direction: 2
+Direction: 0
+Direction: 2
+Direction: 0
+Direction: 2
+Direction: 0
+Direction: 1
+Direction: 1
+Direction: 1
+Direction: 2
+Direction: 2
+Direction: 2
+Direction: 2
+Direction: 2
+Direction: 2
+Direction: 2
+Direction: 2
+Direction: 0
+Direction: 0
+Direction: 0
+Direction: 0
+Direction: 2
+Direction: 2
+Direction: 2
+Direction: 1
+Direction: 1
+Direction: 1
+Direction: 2
+Direction: 2
+Direction: 2
+Direction: 2
+Direction: 2
+Direction: 2
+Direction: 3
+Direction: 2
+Direction: 1
+Direction: 1
+Direction: 1
+Direction: 1
+Direction: 2
+Direction: 2
+Direction: 2
+Direction: 2
+Direction: 2
+Direction: 1
+Direction: 1
+Direction: 1
+Direction: 2
+Direction: 2
+Direction: 2
+Direction: 1
+Direction: 1
+Direction: 1
+Direction: 2
+Direction: 1
+Direction: 1
+Direction: 1
+Direction: 2
+Direction: 1
+Direction: 1
+Direction: 1
+Direction: 2
+Direction: 1
+Direction: 1
+Direction: 1
+Direction: 2
+Direction: 1
+Direction: 2
+Direction: 2
+Direction: 2
+Direction: 2
+Direction: 2
+Direction: 2
+Direction: 3
+Direction: 0
+Direction: 1
+Direction: 2
+Direction: 1
+Direction: 1
+Direction: 1
+Direction: 1
+Direction: 1
+Direction: 1
+Direction: 0
+Direction: 3
+Direction: 2
+Direction: 3
+Direction: 2
+Direction: 2
+Direction: 2
+Direction: 2
+Direction: 3
+Direction: 2
+Direction: 3
+Direction: 1
+Direction: 1
+Direction: 1
+Direction: 1
+Direction: 0
+Direction: 2
+Direction: 3
+Direction: 3
+Direction: 1
+Direction: 0
+Direction: 2
+Direction: 3
+Direction: 3
+Direction: 3
+Direction: 3
+Direction: 3
+Direction: 3
+Direction: 2
+Direction: 2
+Direction: 2

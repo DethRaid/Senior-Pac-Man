@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ update()
+comment1.params=
+comment1.target=void\ move()
+comment2.params=g2
+comment2.target=void\ paint(java.awt.Graphics2D)
+numComments=3

@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Grid()
+comment1.params=
+comment1.target=int\ createGrid()
+comment1.text=\ First\ loads\ the\ grid\ with\ walls.\ Then\ loops\ through\ the\ grid\ creating\ tunnels.\r\n\ dir\ controls\ the\ direction\ of\ the\ tunneling.\ It\ has\ a\ 25%\ chance\ to\ be\ changed\ every\ block.\r\n\ 0\ is\ up,\ 1\ is\ left,\ 2\ is\ down,\ 3\ is\ right\r\nIf\ a\ hole\ it\ cut\ into\ the\ edge\ of\ the\ grid,\ the\ tunnel\ picks\ up\ again\ at\ the\ opposite\ edge
+comment2.params=
+comment2.target=int\ cutTunnel()
+comment3.params=g2
+comment3.target=void\ interestingDrawingProc(java.awt.Graphics2D)
+comment4.params=g2
+comment4.target=void\ slightlyMoreConformistDrawingProc(java.awt.Graphics2D)
+comment5.params=x\ y\ dir
+comment5.target=short\ nextTile(short,\ short,\ short)
+comment6.params=x\ y\ g2
+comment6.target=void\ drawSquare(int,\ int,\ java.awt.Graphics2D)
+comment7.params=x1\ y1\ x2\ y2
+comment7.target=float\ distance(int,\ int,\ int,\ int)
+comment8.params=
+comment8.target=void\ loadBoringPacGrid()
+numComments=9

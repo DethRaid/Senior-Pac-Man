@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.params=imageName\ pm
+comment0.target=Blinky(java.lang.String,\ Pacman)
+comment1.params=
+comment1.target=void\ assignTarget()
+numComments=2
